@@ -21,6 +21,7 @@ We've got you covered with the best tools in the industry. This curated collecti
 ---
 
 ## Test Automation Tools  
+- **[agent-qa](https://github.com/vostride/agent-qa)**: Self-improving QA agent for natural-language web and mobile tests with run memory, UI-change adaptation, and regression detection.
 - **[BugBug](https://bugbug.io)**: Codeless testing for web applications.  
 - **[Selenium](https://www.selenium.dev)**: Automate web browser testing.  
 - **[Playwright](https://playwright.dev)**: Fast browser automation.  
@@ -133,4 +134,3 @@ We've got you covered with the best tools in the industry. This curated collecti
 - **[Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)**: Microsoft’s DevOps platform.  
 
 ---
-
