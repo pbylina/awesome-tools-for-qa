@@ -85,6 +85,7 @@ We've got you covered with the best tools in the industry. This curated collecti
 - **[Appium](https://appium.io)**: Cross-platform mobile app automation.  
 - **[BrowserStack](https://www.browserstack.com/)**: Real device cloud for app testing.  
 - **[Kobiton](https://kobiton.com/)**: Mobile device testing platform.  
+- **[Oh My Android](https://github.com/ateymoori/oh-my-android)**: macOS control panel for testing Android apps on emulators and phones (dark mode, font scale, RTL, TalkBack, network speed).
 - **[TestFairy](https://testfairy.com/)**: Mobile app testing and feedback tool.  
 
 ---
